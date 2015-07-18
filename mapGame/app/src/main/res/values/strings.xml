@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mapGame</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_hello_square">helloSquare</string>
+    <string name="menu_map_content">冒險地圖</string>
+    <string name="menu_map_button">進入地圖</string>
+    <string name="dummy_button">進入遊戲</string>
+    <string name="dummy_content">歡迎來到\n S-square</string>
+</resources>
