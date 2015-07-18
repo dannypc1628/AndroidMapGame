@@ -7,12 +7,15 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="@string/menu_map_content"
-        android:id="@+id/menu_icon_app" />
+        android:id="@+id/menu_icon_app"
+        android:layout_marginTop="150px" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/menu_map_button"
         android:id="@+id/menu_map_button"
-        android:onClick="button_map_Click"/>
+        android:onClick="button_map_Click"
+        android:layout_marginTop="150px" />
+
 </LinearLayout>
